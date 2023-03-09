@@ -17,3 +17,11 @@ Naming is a hard problem. You want to jump quickly to your terminal and get a go
 **Don't be this guy**
 
 <img src="assets/code.webp" height="300" width="300" >
+
+### Install
+
+For the moment, only building from source with cargo is supported
+
+```
+cargo install varnamer
+```

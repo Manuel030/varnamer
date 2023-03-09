@@ -6,8 +6,8 @@ authors = ["Manuel Plank <manuelenrique.plank@gmail.com>"]
 license = "MIT"
 description = "A tool that solves the naming problem"
 readme = "README.md"
-homepage = "https://github.com/you/grrs"
-repository = "https://github.com/you/grrs"
+homepage = "https://github.com/Manuel030/varnamer"
+repository = "https://github.com/Manuel030/varnamer"
 keywords = ["cli", "search", "openai"]
 categories = ["command-line-utilities"]
 
