@@ -1,0 +1,21 @@
+[package]
+name = "varnamer"
+version = "0.1.0"
+edition = "2021"
+authors = ["Manuel Plank <manuelenrique.plank@gmail.com>"]
+license = "MIT"
+description = "A tool that solves the naming problem"
+readme = "README.md"
+homepage = "https://github.com/you/grrs"
+repository = "https://github.com/you/grrs"
+keywords = ["cli", "search", "openai"]
+categories = ["command-line-utilities"]
+
+# See more keys and their definitions at https://doc.rust-lang.org/cargo/reference/manifest.html
+
+[dependencies]
+clap = { version = "4.1.8", features = ["derive"] }
+confy = "0.5.1"
+serde = { version = "1.0.154", features = ["derive"] }
+serde_json = "1.0.94"
+ureq = { version = "2.6.2", features = ["json"] }
