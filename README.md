@@ -16,6 +16,7 @@ varnamer [CODE]
 
 Naming is a hard problem. You want to jump quickly to your terminal and get a good name without thinking. 
 
+
 **Don't be this guy**
 
 <img src="assets/code.webp" height="300" width="300" >
